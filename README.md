@@ -4,6 +4,8 @@
 
 全部内容为本地静态数据，不依赖后端，克隆后即可本地运行。
 
+在线地址：https://cheesecanD41.github.io/hospital-check-guide/
+
 ## 技术栈
 
 - React 19 + TypeScript
