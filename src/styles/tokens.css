@@ -1,0 +1,41 @@
+:root {
+  --color-bg: #FFFFFF;
+  --color-secondary-bg: #F6F7F5;
+  --color-text: #1A1A1A;
+  --color-text-secondary: #4A4A4A;
+  --color-text-muted: #767676;
+  --color-border: #E4E4E1;
+  --color-primary: #2F6B5E;
+  --color-primary-soft: #EDF3F1;
+
+  --font-title: 'Source Han Serif SC', 'Noto Serif SC', 'Songti SC', SimSun, serif;
+  --font-body: 'Source Han Sans SC', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', system-ui, sans-serif;
+
+  --text-12: 12px;
+  --text-13: 13px;
+  --text-14: 14px;
+  --text-16: 16px;
+  --text-18: 18px;
+  --text-20: 20px;
+  --text-26: 26px;
+  --text-34: 34px;
+
+  --line-body: 1.75;
+  --line-title: 1.35;
+  --letter-title: 0.02em;
+
+  --content-width: 1180px;
+  --gutter: 24px;
+  --space-1: 8px;
+  --space-2: 16px;
+  --space-3: 24px;
+  --space-4: 32px;
+  --space-5: 40px;
+  --space-6: 48px;
+  --space-8: 64px;
+
+  --radius-card: 4px;
+  --radius-button: 3px;
+  --nav-height: 64px;
+  --transition: 180ms ease-out;
+}
